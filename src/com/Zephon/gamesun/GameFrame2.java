@@ -8,6 +8,7 @@ import java.awt.event.WindowAdapter;
 import org.omg.PortableServer.POAPackage.AdapterAlreadyExists;
 
 import com.Zephon.gamesun.GameFrame.PaintThread;
+import com.Zephon.util.GameUtil;
 
 /**
  * 测试窗口物体沿各种轨迹移动

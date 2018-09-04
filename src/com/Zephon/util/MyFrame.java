@@ -1,4 +1,4 @@
-package com.Zephon.gamesun;
+package com.Zephon.util;
 
 import java.awt.Frame;
 import java.awt.event.WindowAdapter;

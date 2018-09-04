@@ -7,6 +7,8 @@ import java.awt.Image;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
+import com.Zephon.util.GameUtil;
+
 public class GameFrame extends Frame {		//GUI±à³Ì£ºAWT£¬swingµÈ
 	
 	Image img=GameUtil.getImage("images/sun.jpg");
